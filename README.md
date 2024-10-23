@@ -3,7 +3,7 @@
 
 ### Table of Contents
 - [Description](#description)
-- [Tools](#Tools)
+- [Tools Used](#Tools-Used)
 - [Charts Used](#charts-used)
 - [Dashboard](#Dashboard)
 
@@ -14,9 +14,8 @@ It helps in understanding how users interact with the site, which sources drive 
 This analysis supports data-driven decisions to enhance marketing strategies and optimize user experience.
 Ultimately, it serves as a vital tool for boosting website performance and achieving business goals.
 
-## Tools 
+## Tools Used 
 * Power Bi 
-* SQl
 * Excel 
 
 ## Charts Used
@@ -99,6 +98,9 @@ Home Page
 
 Next page 
 ![image](https://github.com/user-attachments/assets/235df349-4feb-45dd-99ce-8ec052df7e93)
+
+
+
 
 
 
