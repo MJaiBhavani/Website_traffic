@@ -20,7 +20,7 @@ Ultimately, it serves as a vital tool for boosting website performance and achie
 - [charts](#charts)
 - [Slicers](#slicers)
 
-## 1. Cards
+## 1. cards
 Cards are used to display key performance indicators (KPIs) prominently on the dashboard. Each card presents a single, 
 essential metric, such as total visits, average session duration, or bounce rate. 
 This allows stakeholders to quickly assess website performance at a glance.
