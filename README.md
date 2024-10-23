@@ -22,8 +22,7 @@ Ultimately, it serves as a vital tool for boosting website performance and achie
 ## Charts Used
 - [cards](#cards)
 - [Graphs](#Graphs)
-- [charts](#charts)
-- [Slicers](#slicers)
+- [slicers](#slicers)
 
 ## 1. cards
 Cards are used to display key performance indicators (KPIs) prominently on the dashboard. Each card presents a single, 
@@ -45,6 +44,7 @@ This allows stakeholders to quickly assess website performance at a glance.
 ![image](https://github.com/user-attachments/assets/4e3e5b78-7887-4244-b933-684ca5e76e38)
 
 ## Graphs 
+
 **Line Graph**
 
 Line graphs in the dashboard visualize the count of sessions categorized by day of the week and month, allowing for a clear understanding of user activity patterns over time. By plotting sessions on the vertical axis and time on the horizontal axis, these graphs reveal trends and fluctuations in user engagement. They help identify peak days and months, providing insights into when the website attracts the most traffic. This information is crucial for optimizing marketing strategies and resource allocation. Overall, line graphs offer a dynamic way to analyze and interpret session data effectively.
@@ -80,7 +80,7 @@ Pie charts in the dashboard illustrate the total sessions categorized by source,
 
 ![image](https://github.com/user-attachments/assets/ef6c5ca3-3957-424e-8ede-dca0ec238cd3)
 
-**slicers**
+## slicers
 
 Slicers in the dashboard allow users to filter data based on specific dimensions, such as browser type and region. By selecting a particular browser (e.g., Chrome, Firefox, Safari), users can view metrics and visualizations that reflect only the sessions from that browser, enabling a focused analysis of user behavior and preferences. Similarly, slicers for regions enable stakeholders to filter data by geographic location, allowing for insights into how different areas engage with the website. This interactivity empowers users to tailor their analysis, making it easier to identify trends, patterns, and areas for improvement based on browser usage and regional performance. Overall, slicers enhance the dashboard's usability and effectiveness by providing customizable views of the data.
 
