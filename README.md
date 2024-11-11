@@ -4,6 +4,7 @@
 ### Table of Contents
 - [Description](#description)
 - [Tools Used](#Tools-Used)
+- [SQL](#sql)
 - [Charts Used](#charts-used)
 - [Dashboard](#Dashboard)
 
@@ -16,7 +17,11 @@ Ultimately, it serves as a vital tool for boosting website performance and achie
 
 ## Tools Used 
 * Power Bi 
-* Excel 
+* Excel
+* SQL 
+
+## SQL
+sql queries are used to perform  EDA on dataset to find patterns and insights for dataset
 
 ## Charts Used
 - [cards](#cards)
