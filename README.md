@@ -23,6 +23,8 @@ Ultimately, it serves as a vital tool for boosting website performance and achie
 ## SQL
 sql queries are used to perform  EDA on dataset to find patterns and insights for dataset
 
+https://github.com/MJaiBhavani/SQL_QURIES
+
 ## Charts Used
 - [cards](#cards)
 - [Graphs](#Graphs)
